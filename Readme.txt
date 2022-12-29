@@ -1,0 +1,1 @@
+La idea de este repositorio es usarlo para contener implementaciones basicas de aprendizaje y consulta de diferentes librerias de python
